@@ -1,4 +1,3 @@
-
 linha = ["-"]*12
 saida = [[" ", "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", " "]]
 
@@ -40,4 +39,3 @@ saida.append([" ", "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", " "])
 
 for linha in saida:
     print(" ".join(linha))
-
