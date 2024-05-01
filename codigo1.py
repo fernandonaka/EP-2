@@ -1,5 +1,5 @@
 def cria_mapa(N):
-    linha = ["-"]*N
+    linha = [" "]*N
     saida = []
 
     for i in linha:
